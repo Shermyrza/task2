@@ -1,0 +1,133 @@
+body {
+  background-color: black;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+
+/* Header start */
+
+.header {
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo1 {
+  height: 50px;
+  width: 150px;
+}
+
+.lin {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.txt {
+  font-size: 10px;
+}
+
+.num {
+  margin-right: -55px;
+}
+
+.links {
+  height: 20px;
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.images {
+  position: absolute;
+  z-index: -1;
+}
+
+.redball {
+  margin-right: -550px;
+  margin-bottom: 100px;
+}
+
+.redlight {
+  margin: -100px;
+  position: absolute;
+  z-index: -1;
+}
+
+.tit {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.title {
+  height: 300px;
+  width: 200px;
+}
+
+.purplelight {
+  margin-left: 100px;
+}
+
+.title1 {
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  margin: 100px 0px 0 600px;
+}
+
+.img {
+  margin-left: 900px;
+}
+
+.btn {
+  height: 50px;
+  width: 300px;
+  margin-left: 175px;
+  background-color: rgb(29, 29, 238);
+  color: white;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 200px 50px 0 30px;
+}
+
+.text1 {
+  color: rgb(65, 65, 65);
+}
+
+.text2 {
+  color: rgb(65, 65, 65);
+}
+
+.text3 {
+  color: transparent;
+}
+
+.text4 {
+  color: rgb(65, 65, 65);
+}
+
+.footerend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  margin-right: 50px;
+}
+
+.footerend2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  margin-right: 50px;
+}
+
+.text5 {
+  color: white;
+  text-decoration: underline;
+}
